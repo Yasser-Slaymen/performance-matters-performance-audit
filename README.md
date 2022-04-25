@@ -1,11 +1,13 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+> j![Screenshot (11)](https://user-images.githubusercontent.com/90189815/165076416-2ca6f8c6-f71d-455e-ad99-21513a48faed.png)
 
 # Titel
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 
 
 ## ContentAudit
-Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe. 
+Beschrijf de website die 
+e hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe. 
 
 
 ### First Contentful Paint (FCP)
