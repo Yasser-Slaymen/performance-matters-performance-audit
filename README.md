@@ -26,13 +26,13 @@ performance  kijkende die site gebruik images formats jpg dat maak de lading tra
 
 ### Time to Interactive (TTI)
 ##### Om TTI sinelgeid te verbeteren kan Science paar dingen doen:
-* onnodig javascript verwijderen.Bovendien zijn er een paar specific verbeter punten waarmee ze de scores omhoog kunnen krijgen zoals :
- * Reduce javascript execution time.
- * Minify and compress your code
+* onnodig javascript verwijderen
 
 * Splits de JavaScript-bundel om alleen de code te verzenden die nodig is voor de initiële route wanneer de gebruiker een applicatie laadt.
 ### Speed Index
-Terwijl alles wat je doet om de laadsnelheid van de pagina te verbeteren, uw snelheidsindex zal verbeteren.
+Terwijl alles wat je doet om de laadsnelheid van de pagina te verbeteren, uw snelheidsindex zal verbeteren..Bovendien zijn er een paar specific verbeter punten waarmee ze de scores omhoog kunnen krijgen zoals :
+ * Reduce javascript execution time.
+ * Minify and compress your code
 ### Total Blocking Time (TBT)
 _Beschrijf de uitslag van de TBT van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
