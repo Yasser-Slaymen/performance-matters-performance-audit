@@ -1,8 +1,7 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-> j![Screenshot (11)](https://user-images.githubusercontent.com/90189815/165076416-2ca6f8c6-f71d-455e-ad99-21513a48faed.png)
+ # Performance audit van Science 
+Bij web performance  draait alles om het snel maken van websites, inclusief het snel laten lijken van langzame processen. Laadt de site snel, kan de gebruiker er snel mee aan de slag en geeft hij geruststellende feedback als iets even duurt om te laden (bijvoorbeeld een laad spinner)? Zijn scrollen en animaties soepel?
+ ![Screenshot (11)](https://user-images.githubusercontent.com/90189815/165076416-2ca6f8c6-f71d-455e-ad99-21513a48faed.png)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
 
 
 ## ContentAudit
