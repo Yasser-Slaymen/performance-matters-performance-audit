@@ -12,7 +12,7 @@ Datum:26-4-2022
 
 ### First Contentful Paint (FCP)
 De performance van websitr Science score 0,8s op Desktop. Er zijn een paar verbeter punten waarmee de scores omhoog  kunnen krijgen.
-#####Reducing overall font load time:
+##### Reducing overall font load time:
 Er zijn groot bestanden  fonts die duurt even  om te laden . daardoor de FCP entje traag. Deze kunnen worden opgelost door 
 Gebruik font display bijvoorbeeld
 @font-face { font-family: Helvetica; font-display: swap; }
