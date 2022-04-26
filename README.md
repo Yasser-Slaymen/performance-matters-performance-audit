@@ -16,7 +16,7 @@ De performance van websitr Science score 0,8s op Desktop. Er zijn een paar verbe
 Er zijn groot bestanden  fonts die duurt even  om te laden . daardoor de FCP entje traag. Deze kunnen worden opgelost door:
 
 *  Gebruik font display bijvoorbeeld:
-*  
+ 
       @font-face { font-family: Helvetica; font-display: swap; }
 
 * Wacht met het gebruik van aangepaste lettertypen totdat ze zijn geladen
