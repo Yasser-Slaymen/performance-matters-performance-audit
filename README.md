@@ -34,13 +34,14 @@ Terwijl alles wat je doet om de laadsnelheid van de pagina te verbeteren, uw sne
  * Reduce javascript execution time.
  * Minify and compress your code
 ### Total Blocking Time (TBT)
-_Beschrijf de uitslag van de TBT van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
-
+TBT meet de totale tijd dat een pagina niet reageert op gebruikersinvoer, zoals muisklikken, schermtikken of toetsenborddrukken.
+Je kunt de score's omhoog krijgen door:
+* Verwijder al het gebruik van document.write() in code.
+* verwijder long-time tasks. er zijn vier long tasks gevonden
 ### Largest Contentful Paint (LCP)
-_Beschrijf de uitslag van de LCP van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
+Hier een element gevonden, het is groot img , om de score  omhoog kunnen krijgen hier moeten kies het juiste image formaat
 
 ### Cumulative Layout Shift (CLS)
-_Beschrijf de uitslag van de CLS van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
 
 
