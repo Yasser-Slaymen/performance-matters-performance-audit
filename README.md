@@ -20,6 +20,9 @@ Er zijn groot bestanden  fonts die duurt even  om te laden . daardoor de FCP ent
       @font-face { font-family: Helvetica; font-display: swap; }
 
 * Wacht met het gebruik van aangepaste lettertypen totdat ze zijn geladen
+##### Serve images in next-gen formats
+performance  kijkende die site gebruik images formats jpg dat maak de lading traag Deze kunnen worden opgelost door bijvoorbeeld Afbeeldingsformaten zoals WebP en AVIF bieden vaak betere compressie dan PNG of JPEG, wat snellere downloads en minder gegevensverbruik betekent dus kunnen gebruik andere format
+
 
 ### Time to Interactive (TTI)
 _Beschrijf de uitslag van de TTI van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
