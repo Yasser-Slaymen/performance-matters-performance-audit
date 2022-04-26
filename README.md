@@ -11,7 +11,8 @@ Datum:26-4-2022
 ![Screenshot (12)](https://user-images.githubusercontent.com/90189815/165272658-5f9e7650-3b71-401c-9975-d36810d5fdf5.png)
 
 ### First Contentful Paint (FCP)
-De performance van websitr Science score 0,6s op Desktop. Er zijn een paar verbeter punten waarmee de scores omhoog  kunnen krijgen
+De performance van websitr Science score 0,8s op Desktop. Er zijn een paar verbeter punten waarmee de scores omhoog  kunnen krijgen.
+Redusing overall font load time:
 ### Time to Interactive (TTI)
 _Beschrijf de uitslag van de TTI van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
