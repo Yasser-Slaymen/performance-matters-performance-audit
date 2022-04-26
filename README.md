@@ -25,8 +25,9 @@ performance  kijkende die site gebruik images formats jpg dat maak de lading tra
 
 
 ### Time to Interactive (TTI)
-_Beschrijf de uitslag van de TTI van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
-
+##### Om TTI sinelgeid te verbeteren kan Science paar dingen doen:
+* onnodig javascript verwijderen.
+* Splits de JavaScript-bundel om alleen de code te verzenden die nodig is voor de initiële route wanneer de gebruiker een applicatie laadt.
 ### Speed Index
 _Beschrijf de uitslag van de SI van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
 
