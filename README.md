@@ -5,9 +5,9 @@ Bij web performance  draait alles om het snel maken van websites, inclusief het 
 
 
 ## ContentAudit
-Beschrijf de website die 
-e hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe. 
-
+Website: https://www.science.org/
+Datum:26-4-2022
+![Screenshot (12)](https://user-images.githubusercontent.com/90189815/165272658-5f9e7650-3b71-401c-9975-d36810d5fdf5.png)
 
 ### First Contentful Paint (FCP)
 _Beschrijf de uitslag van de FCP van de test en toon de resultaten. Beschrijf wat kan worden verbeterd als de score minder dan 90 is._
