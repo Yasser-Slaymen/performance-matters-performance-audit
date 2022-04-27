@@ -42,8 +42,7 @@ Je kunt de score's omhoog krijgen door:
 Hier een element gevonden, het is groot img , om de score  omhoog kunnen krijgen hier moeten kies het juiste image formaat
 
 ### Cumulative Layout Shift (CLS)
-
-
+De elments (main.content, div.card-content, div.ExternalAdMedium__wrapper.py-4, ul.list-inline.comma-separated, i.list-inline-item). de issue hier gebruiken elementen zonder afmetingen.Ze zouden beter kunnen afmeting geven.
 
 ## Bronnen
 
